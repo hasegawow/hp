@@ -4,3 +4,7 @@
 # new Readme
 
 概要
+
+## usage
+
+用途
